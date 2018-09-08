@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cats Pictures</string>
+
+    <!--Main-->
+    <string name="tab_title_cat">All Cats</string>
+    <string name="tab_title_cat_hats">Cats with hats</string>
+
+    <!--Detail-->
+    <string name="picture_detail_breed_title">Breed:</string>
+    <string name="picture_detail_not_found">Not Found</string>
+</resources>

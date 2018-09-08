@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#000</color>
+    <color name="colorPrimaryDark">#000</color>
+    <color name="colorAccent">#db0000</color>
+
+    <color name="grayScale0">#333333</color>
+    <color name="grayScale1">#777777</color>
+    <color name="grayScale2">#bbbbbb</color>
+    <color name="grayScale3">#dddddd</color>
+    <color name="grayScale4">#fafafa</color>
+
+</resources>

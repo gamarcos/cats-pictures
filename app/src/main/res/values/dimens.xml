@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="picture_detail_image_height">200dp</dimen>
+    <dimen name="picture_detail_text_margin_top">8dp</dimen>
+    <dimen name="picture_detail_text_margin_horizontal">8dp</dimen>
+    <dimen name="picture_detail_text_size">20sp</dimen>
+
+</resources>
